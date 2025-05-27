@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CenZero/cnzr/main/assets/cenzero-banner.png" alt="Cenzero Framework Banner" width="100%" />
-</p>
-
 <h1 align="center">Cenzero Framework</h1>
 <p align="center">TypeScript-first web tooling for modern developers</p>
 
